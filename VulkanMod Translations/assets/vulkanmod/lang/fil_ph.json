@@ -1,0 +1,40 @@
+{
+  "vulkanmod.options.unknown": "Unknown",
+
+  "vulkanmod.options.pages.video": "Bidyo",
+  "vulkanmod.options.pages.graphics": "Grapika",
+  "vulkanmod.options.pages.optimizations": "Optimasyon",
+  "vulkanmod.options.pages.other": "Iba-pa",
+
+  "vulkanmod.options.buttons.apply": "I-apply",
+  "vulkanmod.options.buttons.kofi": "Supportahan ang mga developer",
+
+  "vulkanmod.options.advCulling": "Advanced Chunk Culling",
+  "vulkanmod.options.advCulling.aggressive": "Agresibo",
+  "vulkanmod.options.advCulling.conservative": "Konserbatibo",
+  "vulkanmod.options.advCulling.normal": "Normal",
+  "vulkanmod.options.advCulling.tooltip": "Pumili ng isang culling algorithm na posibleng ma pabilis and perpormans ng laro sa pag li-limita ng mga non-visible chunks na na i-rendered.",
+
+  "vulkanmod.options.ao.subBlock": "ON (Sub-block)",
+  "vulkanmod.options.ao.subBlock.tooltip": "ON (Sub-block): Pinapagana ang smooth lighting para sa mga non-full blocks. (eksperimento)",
+
+  "vulkanmod.options.deviceSelector": "Piliian ng mga GPU",
+  "vulkanmod.options.deviceSelector.auto": "Awtomatiko",
+  "vulkanmod.options.deviceSelector.tooltip": "Kasalukuyang GPU",
+
+  "vulkanmod.options.entityCulling": "Pag-cull sa mga Entity",
+  "vulkanmod.options.entityCulling.tooltip": "Pinapagana ang culling sa mga entities na hindi kita.",
+
+  "vulkanmod.options.frameQueue": "Size ng render queue",
+  "vulkanmod.options.frameQueue.tooltip": "Baka ma-help i-stabilize and framerate kapag mataas ang value kapalit ng increased input lag.",
+  
+  "vulkanmod.options.indirectDraw": "Indirect Draw",
+  "vulkanmod.options.indirectDraw.tooltip": "Binabawasan ang CPU overhead pero tataas ang GPU overhead. Maaaring makatulong ang pagpapagana nito sa mga system na limitado ang CPU",
+
+  "vulkanmod.options.refreshRate": "Rate ng Pag-refresh",
+
+  "vulkanmod.options.uniqueOpaqueLayer": "Unique opaque layer",
+  "vulkanmod.options.uniqueOpaqueLayer.tooltip": "Gumamit ng unique render layer para sa opaque na terrain para ma improve ang perpormans.",
+
+  "vulkanmod.options.windowedFullscreen": "Windowed Fullscreen"
+}
